@@ -94,14 +94,14 @@ footer {
     padding: 5px;
 }
 section#img1 {
-    background: url('/imagens/background001.jpg') no-repeat center;
+    background: url('/Cordel-Moderno/imagens/background001.jpg') no-repeat center;
     background-size: cover;
     background-position: right center;
     background-attachment: fixed;
 }
 
 section#img2 {
-    background: url('/imagens/background002.jpg') no-repeat center;
+    background: url('/Cordel-Moderno/imagens/background002.jpg') no-repeat center;
     background-size: cover;
     background-position: right center;
     background-attachment: fixed;
